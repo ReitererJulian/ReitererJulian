@@ -10,7 +10,7 @@
 
 - 🔭 Currently working on **Essence Client** – a Python tool to control and read industrial sensors via REST & OPC UA
 - 🌱 Learning **Java / Spring Boot** for a full-stack ToDo-Manager (Spring Boot + Flutter)
-- 💻 Interested in backend development, IoT, and clean project architecture
+- 💻 Interested in backend development and clean project architecture
 - 🏠 Building a small home server setup (Raspberry Pi Stack)
 
 ## Tech Stack
