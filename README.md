@@ -8,10 +8,11 @@
 
 ## About Me
 
-- 🔭 Currently working on **Essence Client** – a Python tool to control and read industrial sensors via REST & OPC UA
-- 🌱 Learning **Java / Spring Boot** for a full-stack ToDo-Manager (Spring Boot + Flutter)
+- 🔭 Currently learning Arch Linux and Hyprland while building a clean desktop setup
+- 🤖 Last project **Essence Client** – a Python tool to control and read industrial sensors via REST & OPC UA
+- 🌱 Working on **Java / Spring Boot** for a full-stack ToDo-Manager (Spring Boot + Flutter)
 - 💻 Interested in backend development and clean project architecture
-- 🏠 Building a small home server setup (Raspberry Pi Stack)
+- 🏠 Building a small home server setup (Raspberry Pi-Stack)
 
 ## Tech Stack
 
@@ -19,6 +20,7 @@
 
 ![Python](https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 **Backend / Frameworks**
 
@@ -30,5 +32,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 <p align="center"><i>Always learning, always improving.</i></p>
