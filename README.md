@@ -9,8 +9,8 @@
 ## About Me
 
 - 🔭 Currently learning Arch Linux and Hyprland while building a clean desktop setup
-- 🤖 Last project **Essence Client** – a Python tool to control and read industrial sensors via REST & OPC UA
-- 🌱 Working on **Java / Spring Boot** for a full-stack ToDo-Manager (Spring Boot + Flutter)
+- 🤖 Working on **Essence Client** – a Python tool to control and read industrial sensors via REST & OPC UA
+- 🌱 Planning **Java / Spring Boot** for a full-stack ToDo-Manager (Spring Boot + Flutter)
 - 💻 Interested in backend development and clean project architecture
 - 🏠 Building a small home server setup (Raspberry Pi-Stack)
 
